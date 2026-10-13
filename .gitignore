@@ -35,7 +35,7 @@ htmlcov/
 Thumbs.db
 Desktop.ini
 
-# Profiling results — track organized results, ignore temporary files
+# Profiling results - track organized results, ignore temporary files
 profiling/results/*.tmp
 profiling/results/*.log
 profiling/results/*-scratch/
@@ -48,10 +48,8 @@ profiling/results/*-scratch/
 *.bak
 *.swp
 
-# Windows-specific (WSL-only project now)
+# Compiled/native build outputs
 *.exe
-*.bat
-*.cmd
 *.dll
 *.pyd
 *.obj
